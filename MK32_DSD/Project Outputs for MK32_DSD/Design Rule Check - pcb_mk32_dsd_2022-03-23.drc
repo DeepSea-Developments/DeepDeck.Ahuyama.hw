@@ -1,0 +1,64 @@
+Protel Design System Design Rule Check
+PCB File : D:\Cloud DATA\Proyectos DSD\HARDWARE\MK32_DSD\pcb_mk32_dsd_2022-03-23.pcbdoc
+Date     : 24/03/2022
+Time     : 11:59:15 a. m.
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.254mm) (Max=0.254mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
+   Violation between Hole Size Constraint: (4.064mm > 2.54mm) Pad S1-(56.769mm,109.982mm) on Multi-Layer Actual Hole Size = 4.064mm
+   Violation between Hole Size Constraint: (4.064mm > 2.54mm) Pad S10-(114.681mm,90.678mm) on Multi-Layer Actual Hole Size = 4.064mm
+   Violation between Hole Size Constraint: (4.064mm > 2.54mm) Pad S13-(56.769mm,71.374mm) on Multi-Layer Actual Hole Size = 4.064mm
+   Violation between Hole Size Constraint: (4.064mm > 2.54mm) Pad S14-(76.073mm,71.374mm) on Multi-Layer Actual Hole Size = 4.064mm
+   Violation between Hole Size Constraint: (4.064mm > 2.54mm) Pad S15-(95.377mm,71.374mm) on Multi-Layer Actual Hole Size = 4.064mm
+   Violation between Hole Size Constraint: (4.064mm > 2.54mm) Pad S16-(114.681mm,71.374mm) on Multi-Layer Actual Hole Size = 4.064mm
+   Violation between Hole Size Constraint: (4.064mm > 2.54mm) Pad S19-(56.769mm,52.07mm) on Multi-Layer Actual Hole Size = 4.064mm
+   Violation between Hole Size Constraint: (4.064mm > 2.54mm) Pad S2-(76.073mm,109.982mm) on Multi-Layer Actual Hole Size = 4.064mm
+   Violation between Hole Size Constraint: (4.064mm > 2.54mm) Pad S20-(76.073mm,52.07mm) on Multi-Layer Actual Hole Size = 4.064mm
+   Violation between Hole Size Constraint: (4.064mm > 2.54mm) Pad S21-(95.377mm,52.07mm) on Multi-Layer Actual Hole Size = 4.064mm
+   Violation between Hole Size Constraint: (4.064mm > 2.54mm) Pad S22-(114.681mm,52.07mm) on Multi-Layer Actual Hole Size = 4.064mm
+   Violation between Hole Size Constraint: (4.064mm > 2.54mm) Pad S3-(95.377mm,109.982mm) on Multi-Layer Actual Hole Size = 4.064mm
+   Violation between Hole Size Constraint: (4.064mm > 2.54mm) Pad S4-(114.681mm,109.982mm) on Multi-Layer Actual Hole Size = 4.064mm
+   Violation between Hole Size Constraint: (4.064mm > 2.54mm) Pad S7-(56.769mm,90.678mm) on Multi-Layer Actual Hole Size = 4.064mm
+   Violation between Hole Size Constraint: (4.064mm > 2.54mm) Pad S8-(76.073mm,90.678mm) on Multi-Layer Actual Hole Size = 4.064mm
+   Violation between Hole Size Constraint: (4.064mm > 2.54mm) Pad S9-(95.377mm,90.678mm) on Multi-Layer Actual Hole Size = 4.064mm
+Rule Violations :16
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.254mm) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.254mm) (Disabled)(IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.254mm) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 16
+Waived Violations : 0
+Time Elapsed        : 00:00:02

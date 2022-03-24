@@ -1,0 +1,472 @@
+Removed Pin From Net: NetName=LEDS Pin=U2-4
+Change Component DesignItemId : Designator=D1 Old DesignItemId= New DesignItemId=1N4148TA
+Change Component DesignItemId : Designator=D2 Old DesignItemId= New DesignItemId=1N4148TA
+Change Component DesignItemId : Designator=D3 Old DesignItemId= New DesignItemId=1N4148TA
+Change Component DesignItemId : Designator=D4 Old DesignItemId= New DesignItemId=1N4148TA
+Change Component DesignItemId : Designator=D7 Old DesignItemId= New DesignItemId=1N4148TA
+Change Component DesignItemId : Designator=D8 Old DesignItemId= New DesignItemId=1N4148TA
+Change Component DesignItemId : Designator=D9 Old DesignItemId= New DesignItemId=1N4148TA
+Change Component DesignItemId : Designator=D10 Old DesignItemId= New DesignItemId=1N4148TA
+Change Component DesignItemId : Designator=D13 Old DesignItemId= New DesignItemId=1N4148TA
+Change Component DesignItemId : Designator=D14 Old DesignItemId= New DesignItemId=1N4148TA
+Change Component DesignItemId : Designator=D15 Old DesignItemId= New DesignItemId=1N4148TA
+Change Component DesignItemId : Designator=D16 Old DesignItemId= New DesignItemId=1N4148TA
+Change Component DesignItemId : Designator=D19 Old DesignItemId= New DesignItemId=1N4148TA
+Change Component DesignItemId : Designator=D20 Old DesignItemId= New DesignItemId=1N4148TA
+Change Component DesignItemId : Designator=D21 Old DesignItemId= New DesignItemId=1N4148TA
+Change Component DesignItemId : Designator=D22 Old DesignItemId= New DesignItemId=1N4148TA
+Change Component DesignItemId : Designator=R1 Old DesignItemId= New DesignItemId=10K
+Change Component DesignItemId : Designator=R2 Old DesignItemId= New DesignItemId=10K
+Change Component DesignItemId : Designator=R3 Old DesignItemId= New DesignItemId=10K
+Change Component DesignItemId : Designator=R6 Old DesignItemId= New DesignItemId=10K
+Change Component DesignItemId : Designator=R7 Old DesignItemId= New DesignItemId=10K
+Change Component DesignItemId : Designator=R8 Old DesignItemId= New DesignItemId=10K
+Change Component DesignItemId : Designator=ENC1 Old DesignItemId= New DesignItemId=EC11
+Change Component DesignItemId : Designator=ENC2 Old DesignItemId= New DesignItemId=EC11
+Change Component DesignItemId : Designator=P1 Old DesignItemId= New DesignItemId=Header-Female-2.54_1x13
+Change Component DesignItemId : Designator=P2 Old DesignItemId= New DesignItemId=Header-Female-2.54_1x13
+Change Component DesignItemId : Designator=S1 Old DesignItemId= New DesignItemId=MX1A-11NW
+Change Component DesignItemId : Designator=S2 Old DesignItemId= New DesignItemId=MX1A-11NW
+Change Component DesignItemId : Designator=S3 Old DesignItemId= New DesignItemId=MX1A-11NW
+Change Component DesignItemId : Designator=S4 Old DesignItemId= New DesignItemId=MX1A-11NW
+Change Component DesignItemId : Designator=S7 Old DesignItemId= New DesignItemId=MX1A-11NW
+Change Component DesignItemId : Designator=S8 Old DesignItemId= New DesignItemId=MX1A-11NW
+Change Component DesignItemId : Designator=S9 Old DesignItemId= New DesignItemId=MX1A-11NW
+Change Component DesignItemId : Designator=S10 Old DesignItemId= New DesignItemId=MX1A-11NW
+Change Component DesignItemId : Designator=S13 Old DesignItemId= New DesignItemId=MX1A-11NW
+Change Component DesignItemId : Designator=S14 Old DesignItemId= New DesignItemId=MX1A-11NW
+Change Component DesignItemId : Designator=S15 Old DesignItemId= New DesignItemId=MX1A-11NW
+Change Component DesignItemId : Designator=S16 Old DesignItemId= New DesignItemId=MX1A-11NW
+Change Component DesignItemId : Designator=S19 Old DesignItemId= New DesignItemId=MX1A-11NW
+Change Component DesignItemId : Designator=S20 Old DesignItemId= New DesignItemId=MX1A-11NW
+Change Component DesignItemId : Designator=S21 Old DesignItemId= New DesignItemId=MX1A-11NW
+Change Component DesignItemId : Designator=S22 Old DesignItemId= New DesignItemId=MX1A-11NW
+Change Component DesignItemId : Designator=U2 Old DesignItemId= New DesignItemId=SK6812(v.2)
+Change Component DesignItemId : Designator=U3 Old DesignItemId= New DesignItemId=SK6812(v.2)
+Change Component DesignItemId : Designator=U4 Old DesignItemId= New DesignItemId=SK6812(v.2)
+Change Component DesignItemId : Designator=U5 Old DesignItemId= New DesignItemId=SK6812(v.2)
+Change Component DesignItemId : Designator=U6 Old DesignItemId= New DesignItemId=SK6812(v.2)
+Change Component DesignItemId : Designator=PCB1 Old DesignItemId= New DesignItemId=SSD1306-128x64-OLED-I2C
+Change Component DesignItemId : Designator=U1 Old DesignItemId= New DesignItemId=WEMOS_LOLIN32_V1.0.0 Rev JPMA
+Change Component DesignItemId : Designator=LED1 Old DesignItemId= New DesignItemId=WS2812B
+Change Component DesignItemId : Designator=LED2 Old DesignItemId= New DesignItemId=WS2812B
+Change Component DesignItemId : Designator=LED3 Old DesignItemId= New DesignItemId=WS2812B
+Change Component DesignItemId : Designator=LED4 Old DesignItemId= New DesignItemId=WS2812B
+Change component parameters: Designator = "U1" ("U1"); Footprint = "WEMOS LOLIN32 LITE V1.0.0 UC"; UniqueID = "\gge1bdc0ab44f99f92d" ("gge1bdc0ab44f99f92d")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "JPMA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "X"; VariantName = "[No Variations]"
+Change component parameters: Designator = "ENC1" ("ENC1"); Footprint = "EC11"; UniqueID = "\gge3e44f27531c1f651" ("gge3e44f27531c1f651")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "sourceId"; Value = "_kcy86s1ZJ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "E"; VariantName = "[No Variations]"
+Change component parameters: Designator = "ENC2" ("ENC2"); Footprint = "EC11"; UniqueID = "\ggecc917c466a40c4f2" ("ggecc917c466a40c4f2")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "sourceId"; Value = "_kcy86s1ZJ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "E"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1" ("R1"); Footprint = "R03"; UniqueID = "\gge353b166cc2dee846" ("gge353b166cc2dee846")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "sorinfxdx"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "sourceId"; Value = "J2CYWiEeb"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "R03"; UniqueID = "\gge6f63fc6711cfa315" ("gge6f63fc6711cfa315")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "sorinfxdx"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "sourceId"; Value = "J2CYWiEeb"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "R03"; UniqueID = "\ggefe89d0632cfce75f" ("ggefe89d0632cfce75f")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "sorinfxdx"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "sourceId"; Value = "J2CYWiEeb"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6" ("R6"); Footprint = "R03"; UniqueID = "\ggec0e08135c58af4a3" ("ggec0e08135c58af4a3")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "sorinfxdx"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "sourceId"; Value = "J2CYWiEeb"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7" ("R7"); Footprint = "R03"; UniqueID = "\ggee7d73af2fbeba4bf" ("ggee7d73af2fbeba4bf")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "sorinfxdx"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "sourceId"; Value = "J2CYWiEeb"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8" ("R8"); Footprint = "R03"; UniqueID = "\ggeead707f355e8832a" ("ggeead707f355e8832a")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "sorinfxdx"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "sourceId"; Value = "J2CYWiEeb"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "PCB1" ("PCB1"); Footprint = "SSD1306_GNDVCC"; UniqueID = "\ggefa6513a4994c6a62" ("ggefa6513a4994c6a62")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "sourceId"; Value = "wICUcuL3l"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "timeStamp"; Value = "1456014235"; VariantName = "[No Variations]"
+Change component parameters: Designator = "S1" ("S1"); Footprint = "MX1A"; UniqueID = "\gge0ac0bd892f9b1ec0" ("gge0ac0bd892f9b1ec0")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "MX1A-11NW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "540-MX1A-11NW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "link"; Value = "http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "S"; VariantName = "[No Variations]"
+Change component parameters: Designator = "S2" ("S2"); Footprint = "MX1A"; UniqueID = "\gge16ca49f37df57620" ("gge16ca49f37df57620")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "MX1A-11NW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "540-MX1A-11NW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "link"; Value = "http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "S"; VariantName = "[No Variations]"
+Change component parameters: Designator = "S3" ("S3"); Footprint = "MX1A"; UniqueID = "\ggeb21ed8cc1c3b642b" ("ggeb21ed8cc1c3b642b")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "MX1A-11NW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "540-MX1A-11NW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "link"; Value = "http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "S"; VariantName = "[No Variations]"
+Change component parameters: Designator = "S4" ("S4"); Footprint = "MX1A"; UniqueID = "\ggeb4af5bc4dd85243d" ("ggeb4af5bc4dd85243d")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "MX1A-11NW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "540-MX1A-11NW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "link"; Value = "http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "S"; VariantName = "[No Variations]"
+Change component parameters: Designator = "S7" ("S7"); Footprint = "MX1A"; UniqueID = "\gge645ed82ea5a47d74" ("gge645ed82ea5a47d74")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "MX1A-11NW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "540-MX1A-11NW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "link"; Value = "http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "S"; VariantName = "[No Variations]"
+Change component parameters: Designator = "S8" ("S8"); Footprint = "MX1A"; UniqueID = "\gge528eaac5fe170b76" ("gge528eaac5fe170b76")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "MX1A-11NW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "540-MX1A-11NW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "link"; Value = "http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "S"; VariantName = "[No Variations]"
+Change component parameters: Designator = "S9" ("S9"); Footprint = "MX1A"; UniqueID = "\gge82f79cc1abfd6827" ("gge82f79cc1abfd6827")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "MX1A-11NW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "540-MX1A-11NW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "link"; Value = "http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "S"; VariantName = "[No Variations]"
+Change component parameters: Designator = "S10" ("S10"); Footprint = "MX1A"; UniqueID = "\gge8a04837b5e6de309" ("gge8a04837b5e6de309")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "MX1A-11NW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "540-MX1A-11NW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "link"; Value = "http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "S"; VariantName = "[No Variations]"
+Change component parameters: Designator = "S13" ("S13"); Footprint = "MX1A"; UniqueID = "\gge992e87e878284c83" ("gge992e87e878284c83")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "MX1A-11NW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "540-MX1A-11NW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "link"; Value = "http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "S"; VariantName = "[No Variations]"
+Change component parameters: Designator = "S14" ("S14"); Footprint = "MX1A"; UniqueID = "\gge2d0f9b3bdc334ecd" ("gge2d0f9b3bdc334ecd")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "MX1A-11NW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "540-MX1A-11NW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "link"; Value = "http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "S"; VariantName = "[No Variations]"
+Change component parameters: Designator = "S15" ("S15"); Footprint = "MX1A"; UniqueID = "\gged9b92ad1e11f2f39" ("gged9b92ad1e11f2f39")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "MX1A-11NW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "540-MX1A-11NW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "link"; Value = "http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "S"; VariantName = "[No Variations]"
+Change component parameters: Designator = "S16" ("S16"); Footprint = "MX1A"; UniqueID = "\ggeefb94aec797f6b83" ("ggeefb94aec797f6b83")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "MX1A-11NW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "540-MX1A-11NW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "link"; Value = "http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "S"; VariantName = "[No Variations]"
+Change component parameters: Designator = "S19" ("S19"); Footprint = "MX1A"; UniqueID = "\gge8134c266cb6833f6" ("gge8134c266cb6833f6")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "MX1A-11NW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "540-MX1A-11NW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "link"; Value = "http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "S"; VariantName = "[No Variations]"
+Change component parameters: Designator = "S20" ("S20"); Footprint = "MX1A"; UniqueID = "\gge6adb3b66072942ca" ("gge6adb3b66072942ca")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "MX1A-11NW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "540-MX1A-11NW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "link"; Value = "http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "S"; VariantName = "[No Variations]"
+Change component parameters: Designator = "S21" ("S21"); Footprint = "MX1A"; UniqueID = "\ggef2c0a2a5cbef09e6" ("ggef2c0a2a5cbef09e6")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "MX1A-11NW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "540-MX1A-11NW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "link"; Value = "http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "S"; VariantName = "[No Variations]"
+Change component parameters: Designator = "S22" ("S22"); Footprint = "MX1A"; UniqueID = "\gge66c019655d1d2b56" ("gge66c019655d1d2b56")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "MX1A-11NW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "540-MX1A-11NW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "link"; Value = "http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "S"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D1" ("D1"); Footprint = "DO-35"; UniqueID = "\gge6eb2f7ba7a12821c" ("gge6eb2f7ba7a12821c")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = "FAIRCHILD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "1N4148TA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "C124481"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D2" ("D2"); Footprint = "DO-35"; UniqueID = "\ggecca08e5caf06c018" ("ggecca08e5caf06c018")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = "FAIRCHILD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "1N4148TA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "C124481"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D3" ("D3"); Footprint = "DO-35"; UniqueID = "\gge81689f1d3303caec" ("gge81689f1d3303caec")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = "FAIRCHILD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "1N4148TA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "C124481"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D4" ("D4"); Footprint = "DO-35"; UniqueID = "\gge6a4368da87585c93" ("gge6a4368da87585c93")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = "FAIRCHILD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "1N4148TA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "C124481"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D7" ("D7"); Footprint = "DO-35"; UniqueID = "\gge61ba849a9213f6b6" ("gge61ba849a9213f6b6")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = "FAIRCHILD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "1N4148TA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "C124481"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D8" ("D8"); Footprint = "DO-35"; UniqueID = "\gged726a396729c3148" ("gged726a396729c3148")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = "FAIRCHILD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "1N4148TA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "C124481"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D9" ("D9"); Footprint = "DO-35"; UniqueID = "\ggeff0c81595de38f51" ("ggeff0c81595de38f51")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = "FAIRCHILD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "1N4148TA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "C124481"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D10" ("D10"); Footprint = "DO-35"; UniqueID = "\gge260e63abbc5bbcdd" ("gge260e63abbc5bbcdd")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = "FAIRCHILD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "1N4148TA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "C124481"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D13" ("D13"); Footprint = "DO-35"; UniqueID = "\gged3460379f3d05a2a" ("gged3460379f3d05a2a")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = "FAIRCHILD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "1N4148TA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "C124481"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D14" ("D14"); Footprint = "DO-35"; UniqueID = "\ggef1c346e37d3cba37" ("ggef1c346e37d3cba37")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = "FAIRCHILD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "1N4148TA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "C124481"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D15" ("D15"); Footprint = "DO-35"; UniqueID = "\ggeff96faf82be08131" ("ggeff96faf82be08131")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = "FAIRCHILD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "1N4148TA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "C124481"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D16" ("D16"); Footprint = "DO-35"; UniqueID = "\gge643ee5a57f85a719" ("gge643ee5a57f85a719")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = "FAIRCHILD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "1N4148TA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "C124481"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D19" ("D19"); Footprint = "DO-35"; UniqueID = "\gge9f82fdb901c26414" ("gge9f82fdb901c26414")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = "FAIRCHILD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "1N4148TA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "C124481"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D20" ("D20"); Footprint = "DO-35"; UniqueID = "\gge3aeeeeabff7ae3be" ("gge3aeeeeabff7ae3be")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = "FAIRCHILD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "1N4148TA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "C124481"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D21" ("D21"); Footprint = "DO-35"; UniqueID = "\ggee0ff00c77f114926" ("ggee0ff00c77f114926")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = "FAIRCHILD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "1N4148TA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "C124481"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D22" ("D22"); Footprint = "DO-35"; UniqueID = "\gge731c7b39eca2360f" ("gge731c7b39eca2360f")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = "FAIRCHILD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "1N4148TA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "C124481"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P1" ("P1"); Footprint = "HDR-13X1/2.54"; UniqueID = "\ggec39ee3c861a7b382" ("ggec39ee3c861a7b382")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = "BOOMELE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "Female header 2.54-1*13P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "C52709"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "P"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P2" ("P2"); Footprint = "HDR-13X1/2.54"; UniqueID = "\gge16cbebb8866e1842" ("gge16cbebb8866e1842")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = "BOOMELE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "Female header 2.54-1*13P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "C52709"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "P"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED1" ("LED1"); Footprint = "WS2812B-MIRROR"; UniqueID = "\ggebc6489e3b38f44cd" ("ggebc6489e3b38f44cd")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "ridgy"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "link"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "WS2812B"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED2" ("LED2"); Footprint = "WS2812B-MIRROR"; UniqueID = "\gge99f4518b2d323013" ("gge99f4518b2d323013")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "ridgy"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "link"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "WS2812B"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED3" ("LED3"); Footprint = "WS2812B-MIRROR"; UniqueID = "\ggec5d1b70a5d020560" ("ggec5d1b70a5d020560")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "ridgy"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "link"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "WS2812B"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED4" ("LED4"); Footprint = "WS2812B-MIRROR"; UniqueID = "\ggeaff4e09e0e8d4605" ("ggeaff4e09e0e8d4605")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "ridgy"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "link"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "WS2812B"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U2" ("U2"); Footprint = "SK6812MINI-E"; UniqueID = "\ggecb83ac7bc1371dfe" ("ggecb83ac7bc1371dfe")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "PetrSlachta"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "link"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "SK6812(v.2)"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U3" ("U3"); Footprint = "SK6812MINI-E"; UniqueID = "\ggef6b86fe3e5bf83ae" ("ggef6b86fe3e5bf83ae")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "PetrSlachta"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "link"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "SK6812(v.2)"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U4" ("U4"); Footprint = "SK6812MINI-E"; UniqueID = "\gge817dfd1a2baaaec1" ("gge817dfd1a2baaaec1")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "PetrSlachta"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "link"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "SK6812(v.2)"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U5" ("U5"); Footprint = "SK6812MINI-E"; UniqueID = "\gge17025a8746662585" ("gge17025a8746662585")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "PetrSlachta"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "link"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "SK6812(v.2)"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U6" ("U6"); Footprint = "SK6812MINI-E"; UniqueID = "\ggec278a44970048575" ("ggec278a44970048575")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "PetrSlachta"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "link"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "SK6812(v.2)"; VariantName = "[No Variations]"
+Added Component: Designator=R4(R03)
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "sorinfxdx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "sourceId"; Value = "J2CYWiEeb"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Added Component: Designator=R5(R03)
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "sorinfxdx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "sourceId"; Value = "J2CYWiEeb"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=COL0 New Net Name=col 0
+Change Net Name : Old Net Name=COL1 New Net Name=col 1
+Change Net Name : Old Net Name=COL2 New Net Name=col 2
+Change Net Name : Old Net Name=COL3 New Net Name=col 3
+Change Net Name : Old Net Name=ENC1_1 New Net Name=NetENC1_1
+Change Net Name : Old Net Name=ENCODERA1 New Net Name=encoder A1
+Change Net Name : Old Net Name=ENCODERA2 New Net Name=encoder A2
+Change Net Name : Old Net Name=ENCODERB1 New Net Name=encoder B1
+Change Net Name : Old Net Name=ENCODERB2 New Net Name=encoder B2
+Change Net Name : Old Net Name=ENCODERS1 New Net Name=encoder S1
+Change Net Name : Old Net Name=ENCODERS2 New Net Name=encoder S2
+Change Net Name : Old Net Name=LED1_2 New Net Name=NetLED1_2
+Change Net Name : Old Net Name=LED2_2 New Net Name=NetLED2_2
+Change Net Name : Old Net Name=LED3_2 New Net Name=NetLED3_2
+Change Net Name : Old Net Name=R6_1 New Net Name=NetENC2_1
+Change Net Name : Old Net Name=ROW0 New Net Name=row 0
+Change Net Name : Old Net Name=ROW1 New Net Name=row 1
+Change Net Name : Old Net Name=ROW2 New Net Name=row 2
+Change Net Name : Old Net Name=ROW3 New Net Name=row 3
+Change Net Name : Old Net Name=S1_1 New Net Name=NetD1_1
+Change Net Name : Old Net Name=S2_1 New Net Name=NetD2_1
+Change Net Name : Old Net Name=S3_1 New Net Name=NetD3_1
+Change Net Name : Old Net Name=S4_1 New Net Name=NetD4_1
+Change Net Name : Old Net Name=S7_1 New Net Name=NetD7_1
+Change Net Name : Old Net Name=S8_1 New Net Name=NetD8_1
+Change Net Name : Old Net Name=S9_1 New Net Name=NetD9_1
+Change Net Name : Old Net Name=S10_1 New Net Name=NetD10_1
+Change Net Name : Old Net Name=S13_1 New Net Name=NetD13_1
+Change Net Name : Old Net Name=S14_1 New Net Name=NetD14_1
+Change Net Name : Old Net Name=S15_1 New Net Name=NetD15_1
+Change Net Name : Old Net Name=S16_1 New Net Name=NetD16_1
+Change Net Name : Old Net Name=S19_1 New Net Name=NetD19_1
+Change Net Name : Old Net Name=S20_1 New Net Name=NetD20_1
+Change Net Name : Old Net Name=S21_1 New Net Name=NetD21_1
+Change Net Name : Old Net Name=S22_1 New Net Name=NetD22_1
+Change Net Name : Old Net Name=U1_2 New Net Name=NetP1_11
+Change Net Name : Old Net Name=U1_18 New Net Name=NetP1_5
+Change Net Name : Old Net Name=U1_19 New Net Name=NetP1_3
+Change Net Name : Old Net Name=U1_36 New Net Name=NetP2_13
+Change Net Name : Old Net Name=U1_39 New Net Name=NetP2_12
+Change Net Name : Old Net Name=U1_EN New Net Name=NetP2_11
+Change Net Name : Old Net Name=U3_4 New Net Name=NetU2_2
+Change Net Name : Old Net Name=U4_2 New Net Name=NetU4_2
+Change Net Name : Old Net Name=U4_4 New Net Name=NetU3_2
+Change Net Name : Old Net Name=U6_2 New Net Name=NetLED1_4
+Change Net Name : Old Net Name=U6_4 New Net Name=NetU5_2
+Added Pin To Net: NetName=Battery lvl Pin=P2-9
+Added Pin To Net: NetName=Battery lvl Pin=R4-2
+Added Pin To Net: NetName=Battery lvl Pin=R5-1
+Added Pin To Net: NetName=Battery lvl Pin=U1-35
+Added Net: Name=Battery lvl
+Added Pin To Net: NetName=NetBGND_+ Pin=R5-2
+Added Net: Name=NetBGND_+
+Added Pin To Net: NetName=NetBVIN_+ Pin=R4-1
+Added Net: Name=NetBVIN_+
+Added Pin To Net: NetName=NetU2_4 Pin=U2-4
+Added Net: Name=NetU2_4
+Added Class: Name=sch_mk32_dsd_2022-03-23
