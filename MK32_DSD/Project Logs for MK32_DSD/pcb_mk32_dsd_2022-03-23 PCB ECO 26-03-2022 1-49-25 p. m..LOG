@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetD11_2 Pin=Q1-2
+Removed Pin From Net: NetName=V_BOOST Pin=Q1-3
+Added Pin To Net: NetName=V_BOOST Pin=Q1-2
+Added Pin To Net: NetName=NetD11_2 Pin=Q1-3
+Added Room: Name=Main

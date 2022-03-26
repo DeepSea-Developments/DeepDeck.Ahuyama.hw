@@ -1,0 +1,67 @@
+Removed Pin From Net: NetName=GND Pin=C5-1
+Removed Pin From Net: NetName=VBAT Pin=C5-2
+Removed Pin From Net: NetName=5V Pin=D5-2
+Removed Pin From Net: NetName=5V Pin=D12-1
+Removed Pin From Net: NetName=5V Pin=IC2-1
+Removed Pin From Net: NetName=5V Pin=IC2-2
+Removed Pin From Net: NetName=GND Pin=IC2-5
+Removed Pin From Net: NetName=VBAT Pin=IC2-9
+Removed Pin From Net: NetName=VBAT Pin=IC2-10
+Removed Pin From Net: NetName=GND Pin=R8-1
+Removed Member From Class: ClassName=Main Member=C5
+Change Component Footprint: Designator=R8 Old Footprint=R0603_L New Footprint=R0603_N
+Change Component Footprint: Designator=R9 Old Footprint=R0603_L New Footprint=R0603_N
+Change Component Footprint: Designator=R10 Old Footprint=R0603_L New Footprint=R0603_N
+Change Component Footprint: Designator=IC2 Old Footprint=SOP50P490X110-10N New Footprint=SOIC127P600X175-9N
+Change Component Comment : Designator=R8 Old Comment=1K New Comment=1k/0603
+Change Component Comment : Designator=R10 Old Comment=1K New Comment=1k/0603
+Change Component Comment : Designator=R9 Old Comment=10K New Comment=1k/0603
+Change Component Comment : Designator=IC2 Old Comment=MCP73833-BZI_UN New Comment=TP4056
+Change Component Comment : Designator=D5 Old Comment=Yellow New Comment=Green
+Change component parameters: Designator = "D5" ("D5"); Footprint = "D0603_L"; UniqueID = "\PRXZLJNA" ("\PRXZLJNA")
+Change component parameters (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8" ("R8"); Footprint = "R0603_L"; UniqueID = "\FEWNTEEE" ("\FEWNTEEE")
+Change component parameters (AddParameter): Name = "Value"; Value = "1k/0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9" ("R9"); Footprint = "R0603_L"; UniqueID = "\BSYPDKZW" ("\BSYPDKZW")
+Change component parameters (AddParameter): Name = "Value"; Value = "1k/0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10" ("R10"); Footprint = "R0603_L"; UniqueID = "\WTIMREFH" ("\WTIMREFH")
+Change component parameters (AddParameter): Name = "Value"; Value = "1k/0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC2" ("IC2"); Footprint = "SOP50P490X110-10N"; UniqueID = "\IFAFUIIH" ("\IFAFUIIH")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://dlnmh9ip6v2uc.cloudfront.net/datasheets/Prototyping/TP4056.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "NanJing Top Power"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TP4056"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D17(D0603_L)
+Add component (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Added Component: Designator=R19(R0603_N)
+Add component (AddParameter): Name = "Value"; Value = "1k/0603"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=IC2-3
+Added Pin To Net: NetName=VBAT Pin=IC2-5
+Added Pin To Net: NetName=VBAT Pin=IC2-8
+Added Pin To Net: NetName=GND Pin=IC2-9
+Added Pin To Net: NetName=CHR Pin=IC2-7
+Added Pin To Net: NetName=CHR Pin=R19-1
+Added Net: Name=CHR
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=NetD5_2 Pin=D12-1
+Added Pin To Net: NetName=NetD5_2 Pin=D17-2
+Added Pin To Net: NetName=NetD5_2 Pin=IC2-4
+Added Net: Name=NetD5_2
+Added Pin To Net: NetName=NetD17_1 Pin=D17-1
+Added Pin To Net: NetName=NetD17_1 Pin=R19-2
+Added Net: Name=NetD17_1
+Added Pin To Net: NetName=NetIC2_2 Pin=IC2-2
+Added Pin To Net: NetName=NetIC2_2 Pin=R8-2
+Added Net: Name=NetIC2_2
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_1 Pin=R9-2
+Added Net: Name=NetR8_1
+Added Pin To Net: NetName=STD Pin=IC2-6
+Added Pin To Net: NetName=STD Pin=R10-1
+Added Net: Name=STD
+Added Member To Class: ClassName=Main Member=Component D17 Green
+Added Member To Class: ClassName=Main Member=Component R19 1k/0603

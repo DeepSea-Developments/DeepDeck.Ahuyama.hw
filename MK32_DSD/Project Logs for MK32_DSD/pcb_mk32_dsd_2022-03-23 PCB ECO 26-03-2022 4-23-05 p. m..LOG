@@ -1,0 +1,148 @@
+Removed Pin From Net: NetName=GND Pin=P2-1
+Removed Pin From Net: NetName=SCL Pin=P2-2
+Removed Pin From Net: NetName=SDA Pin=P2-3
+Removed Pin From Net: NetName=3V3 Pin=P2-4
+Removed Member From Class: ClassName=Main Member=P2
+Change Component Comment : Designator=C2 Old Comment=1uF New Comment=22uf
+Change component parameters: Designator = "C2" ("C2"); Footprint = "C0603_N"; UniqueID = "\FAGSIXHI" ("\FAGSIXHI")
+Change component parameters (AddParameter): Name = "Value"; Value = "22uf"; VariantName = "[No Variations]"
+Added Component: Designator=C1(C0603_N)
+Add component (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Added Component: Designator=C5(C0603_N)
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Component: Designator=IC4(QFN50P500X500X80-29N-D)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "CP2102N-A02-GQFN28R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cp2102n-a02-gqfn28r/silicon-labs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.silabs.com/documents/public/data-sheets/cp2102n-datasheet.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Silicon Labs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CP2102N-A02-GQFN28R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "634-CP2102NA02QFN28R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Silicon-Labs/CP2102N-A02-GQFN28R?qs=u16ybLDytRag4qKvSH3fTw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=P1(HDR1X5)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(SOT23_N)
+Add component (AddParameter): Name = "Category"; Value = "Discrete Semiconductor Products"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.semiconductors.philips.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.semiconductors.philips.com/acrobat/datasheets/MMBT3904_4.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "http://www.mccsemi.com/up_pdf/MMBT3904(SOT-23).pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.mccsemi.com/up_pdf/MMBT3904(SOT-23).pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Collector (Ic) (Max)"; Value = "200mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Collector Cutoff (Max)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "13-May-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Current Gain (hFE) (Min) @ Ic, Vce"; Value = "100 @ 10mA, 1V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency - Transition"; Value = "300MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "12-Dec-2006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Micro Commercial Co"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MMBT3904-TP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "TO-236-3, SC-59, SOT-23-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "3-Pin SOT-23 Package 0.95 mm Pitch, 2.3 mm Lead Span"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SOT23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "May-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power - Max"; Value = "350mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.14, 10=0.127, 25=0.116, 100=0.0834, 250=0.04916, 500=0.04078, 1000=0.02781 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "17-Sep-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "101484"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MMBT3904TPMSCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Transistor Type"; Value = "NPN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vce Saturation (Max) @ Ib, Ic"; Value = "300mV @ 5mA, 50mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Collector Emitter Breakdown (Max)"; Value = "40V"; VariantName = "[No Variations]"
+Added Component: Designator=Q3(SOT23_N)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.semiconductors.philips.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.semiconductors.philips.com/acrobat/datasheets/MMBT3906_2.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "11-Apr-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "12-Dec-2006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "3-Pin SOT-23 Package 0.95 mm Pitch, 2.3 mm Lead Span"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SOT23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "May-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "17-Sep-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R20(R0603_N)
+Add component (AddParameter): Name = "Value"; Value = "22.1K"; VariantName = "[No Variations]"
+Added Component: Designator=R21(R0603_N)
+Add component (AddParameter): Name = "Value"; Value = "NC"; VariantName = "[No Variations]"
+Added Component: Designator=R22(R0603_N)
+Add component (AddParameter): Name = "Value"; Value = "2K"; VariantName = "[No Variations]"
+Added Component: Designator=R23(R0603_N)
+Add component (AddParameter): Name = "Value"; Value = "47.5K"; VariantName = "[No Variations]"
+Added Component: Designator=R24(R0603_N)
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R25(R0603_N)
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=5V Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=IC4-3
+Added Pin To Net: NetName=D+ Pin=IC4-4
+Added Pin To Net: NetName=D- Pin=IC4-5
+Added Pin To Net: NetName=5V Pin=IC4-6
+Added Pin To Net: NetName=5V Pin=IC4-7
+Added Pin To Net: NetName=TX Pin=IC4-25
+Added Pin To Net: NetName=RX Pin=IC4-26
+Added Pin To Net: NetName=GND Pin=IC4-29
+Added Pin To Net: NetName=3V3 Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=SCL Pin=P1-3
+Added Pin To Net: NetName=SDA Pin=P1-4
+Added Pin To Net: NetName=EN Pin=Q2-3
+Added Pin To Net: NetName=row 0 Pin=Q3-3
+Added Pin To Net: NetName=5V Pin=R20-1
+Added Pin To Net: NetName=GND Pin=R21-1
+Added Pin To Net: NetName=3V3 Pin=R22-1
+Added Pin To Net: NetName=GND Pin=R23-1
+Change Net Name : Old Net Name=row 0 New Net Name=IO0
+Added Pin To Net: NetName=CTS Pin=IC4-24
+Added Net: Name=CTS
+Added Pin To Net: NetName=DTR Pin=IC4-28
+Added Pin To Net: NetName=DTR Pin=Q3-2
+Added Pin To Net: NetName=DTR Pin=R24-1
+Added Net: Name=DTR
+Added Pin To Net: NetName=INT Pin=IC1-31
+Added Pin To Net: NetName=INT Pin=P1-5
+Added Net: Name=INT
+Added Pin To Net: NetName=NetIC4_8 Pin=IC4-8
+Added Pin To Net: NetName=NetIC4_8 Pin=R20-2
+Added Pin To Net: NetName=NetIC4_8 Pin=R23-2
+Added Net: Name=NetIC4_8
+Added Pin To Net: NetName=NetIC4_9 Pin=IC4-9
+Added Pin To Net: NetName=NetIC4_9 Pin=R22-2
+Added Net: Name=NetIC4_9
+Added Pin To Net: NetName=NetIC4_11 Pin=IC4-11
+Added Pin To Net: NetName=NetIC4_11 Pin=R21-2
+Added Net: Name=NetIC4_11
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R24-2
+Added Net: Name=NetQ2_1
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=NetQ3_1 Pin=R25-1
+Added Net: Name=NetQ3_1
+Added Pin To Net: NetName=RTS Pin=Q2-2
+Added Pin To Net: NetName=RTS Pin=R25-2
+Added Net: Name=RTS
+Added Member To Class: ClassName=Main Member=Component C1 4.7uF
+Added Member To Class: ClassName=Main Member=Component C5 0.1uF
+Added Member To Class: ClassName=Main Member=Component IC4 CP2102N-A02-GQFN28R
+Added Member To Class: ClassName=Main Member=Component P1 Header 5
+Added Member To Class: ClassName=Main Member=Component Q2 MMBT3904
+Added Member To Class: ClassName=Main Member=Component Q3 MMBT3906
+Added Member To Class: ClassName=Main Member=Component R20 22.1K
+Added Member To Class: ClassName=Main Member=Component R21 NC
+Added Member To Class: ClassName=Main Member=Component R22 2K
+Added Member To Class: ClassName=Main Member=Component R23 47.5K
+Added Member To Class: ClassName=Main Member=Component R24 10K
+Added Member To Class: ClassName=Main Member=Component R25 10K

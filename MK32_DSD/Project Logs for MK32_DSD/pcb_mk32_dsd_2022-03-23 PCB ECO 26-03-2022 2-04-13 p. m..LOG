@@ -1,0 +1,10 @@
+Change Component Comment : Designator=R9 Old Comment=1k/0603 New Comment=0
+Change Component Comment : Designator=R8 Old Comment=1k/0603 New Comment=1.5K
+Change component parameters: Designator = "R8" ("R8"); Footprint = "R0603_N"; UniqueID = "\CJUESXCY" ("\CJUESXCY")
+Change component parameters (AddParameter): Name = "Value"; Value = "1.5K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9" ("R9"); Footprint = "R0603_N"; UniqueID = "\ALPMSTJN" ("\ALPMSTJN")
+Change component parameters (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=NetIC2_1 Pin=IC2-1
+Added Pin To Net: NetName=NetIC2_1 Pin=R9-2
+Added Net: Name=NetIC2_1

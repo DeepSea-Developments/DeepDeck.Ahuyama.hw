@@ -1,0 +1,11 @@
+Added Component: Designator=P1(HDR1X5)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=EN Pin=P1-1
+Added Pin To Net: NetName=RX Pin=P1-2
+Added Pin To Net: NetName=TX Pin=P1-3
+Added Pin To Net: NetName=IO0 Pin=P1-4
+Added Pin To Net: NetName=GND Pin=P1-5
+Added Member To Class: ClassName=Main Member=Component J2 1775469-2
+Added Member To Class: ClassName=Main Member=Component P1 Header 5

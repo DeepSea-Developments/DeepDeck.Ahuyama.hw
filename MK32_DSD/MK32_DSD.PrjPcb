@@ -57,13 +57,13 @@ GenerateClassCluster=0
 DocumentUniqueId=JQCERXTC
 
 [Document2]
-DocumentPath=sch_mk32_dsd_2022-03-23.schdoc
+DocumentPath=Main.schdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1

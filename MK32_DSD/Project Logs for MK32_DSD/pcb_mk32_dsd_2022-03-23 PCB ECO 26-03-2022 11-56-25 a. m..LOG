@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=NetENC1_1 Pin=R3-1
+Removed Pin From Net: NetName=encoder S1 Pin=R3-2
+Removed Pin From Net: NetName=NetENC2_1 Pin=R6-1
+Removed Pin From Net: NetName=encoder S2 Pin=R6-2
+Change Component Footprint: Designator=R3 Old Footprint=R03 New Footprint=R0603_N
+Change Component Footprint: Designator=R6 Old Footprint=R03 New Footprint=R0603_N
+Change component parameters: Designator = "R3" ("R3"); Footprint = "R03"; UniqueID = "\VQUSCTLN" ("\VQUSCTLN")
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6" ("R6"); Footprint = "R03"; UniqueID = "\LSQXZBEH" ("\LSQXZBEH")
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=J2(17754692)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "1775469-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/1775469-2/te-connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1775469%7FA5%7Fpdf%7FEnglish%7FENG_CD_1775469_A5.pdf%7F1775469-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1775469-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "571-1775469-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/1775469-2/?qs=fvVej%2FMj3jdYOde%252BssG5lg%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=VBAT Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J2-MP1
+Added Pin To Net: NetName=GND Pin=J2-MP2
+Added Pin To Net: NetName=encoder S1 Pin=R3-1
+Added Pin To Net: NetName=NetENC1_1 Pin=R3-2
+Added Pin To Net: NetName=encoder S2 Pin=R6-1
+Added Pin To Net: NetName=NetENC2_1 Pin=R6-2

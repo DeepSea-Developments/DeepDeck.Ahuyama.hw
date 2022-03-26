@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=LEDs2 Pin=IC1-37
+Added Pin To Net: NetName=LEDs2 Pin=LED5-4
+Added Net: Name=LEDs2
+Added Member To Class: ClassName=Main Member=Component LED6 WS2812B
+Added Room: Name=Main

@@ -1,0 +1,58 @@
+Removed Pin From Net: NetName=5V Pin=C8-1
+Removed Pin From Net: NetName=5V Pin=U1-3
+Change Component Comment : Designator=R10 Old Comment=1.5k New Comment=1K
+Change component parameters: Designator = "R10" ("R10"); Footprint = "R0603_L"; UniqueID = "\YECWDLDW" ("\YECWDLDW")
+Change component parameters (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=D?(SOD3716X135N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "MBR130T3G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/mbr130t3g/on-semiconductor?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.onsemi.com/pub/Collateral/MBR130T1-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.35mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MBR130T3G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "863-MBR130T3G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/ON-Semiconductor/MBR130T3G?qs=3JMERSakeboBlzSl4dGpZQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=D?(SOD3716X135N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "MBR130T3G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/mbr130t3g/on-semiconductor?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.onsemi.com/pub/Collateral/MBR130T1-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.35mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MBR130T3G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "863-MBR130T3G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/ON-Semiconductor/MBR130T3G?qs=3JMERSakeboBlzSl4dGpZQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=P?(HDR1X4)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0603_N)
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0603_N)
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0603_N)
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VUSB Pin=D?-2
+Added Pin To Net: NetName=GND Pin=P?-1
+Added Pin To Net: NetName=SCL Pin=P?-2
+Added Pin To Net: NetName=SDA Pin=P?-3
+Added Pin To Net: NetName=3V3 Pin=P?-4
+Added Pin To Net: NetName=Battery lvl Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=VUSB Pin=R?-1
+Added Pin To Net: NetName=Battery lvl Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=VBAT Pin=R?-2
+Change Net Name : Old Net Name=5V New Net Name=V_BOOST
+Added Pin To Net: NetName=5V Pin=C8-1
+Added Pin To Net: NetName=5V Pin=D?-1
+Added Pin To Net: NetName=5V Pin=D?-1
+Added Pin To Net: NetName=5V Pin=U1-3
+Added Net: Name=5V
+Added Pin To Net: NetName=NetD?_2 Pin=D?-2
+Added Net: Name=NetD?_2
+Added Member To Class: ClassName=Main Member=Component D? MBR130T3G
+Added Member To Class: ClassName=Main Member=Component D? MBR130T3G
+Added Member To Class: ClassName=Main Member=Component P? Header 4
+Added Member To Class: ClassName=Main Member=Component R? 10K
+Added Member To Class: ClassName=Main Member=Component R? 10K
+Added Member To Class: ClassName=Main Member=Component R? 10K
