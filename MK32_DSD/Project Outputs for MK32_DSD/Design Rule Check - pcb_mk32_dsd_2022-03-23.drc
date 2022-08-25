@@ -1,65 +1,50 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\andre\Mi unidad\Proyectos DSD\HARDWARE\dsd_deepdeck_hw_mk32\MK32_DSD\pcb_mk32_dsd_2022-03-23.pcbdoc
-Date     : 26/03/2022
-Time     : 6:07:16 p. m.
+PCB File : D:\Cloud DATA\Proyectos DSD\HARDWARE\dsd_deepdeck_hw_mk32\MK32_DSD\pcb_mk32_dsd_2022-03-23.pcbdoc
+Date     : 25/08/2022
+Time     : 9:19:01 a. m.
 
-Processing Rule : Clearance Constraint (Gap=7.874mil) (All),(All)
-Rule Violations :0
+Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
+   Violation between Clearance Constraint: (0.175mm < 0.2mm) Between Pad J3-(26.472mm,111.509mm) on Multi-Layer And Pad J3-B1_A12(26.162mm,110.434mm) on Top Layer 
+   Violation between Clearance Constraint: (0.175mm < 0.2mm) Between Pad J3-(32.252mm,111.509mm) on Multi-Layer And Pad J3-A1_B12(32.562mm,110.434mm) on Top Layer 
+Rule Violations :2
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Un-Routed Net Constraint: Net 3V3 Between Track (3010mil,5194mil)(3102.905mil,5194mil) on Top Layer And Pad U1-2(3138mil,4990.905mil) on Top Layer 
-Rule Violations :1
+Rule Violations :0
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=10mil) (Max=30mil) (Preferred=15mil) (All)
+Processing Rule : Width Constraint (Min=0.254mm) (Max=0.762mm) (Preferred=0.381mm) (All)
 Rule Violations :0
 
-Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
 Rule Violations :0
 
-Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
-   Violation between Hole Size Constraint: (160mil > 100mil) Pad S1-(2235mil,4330mil) on Multi-Layer Actual Hole Size = 160mil
-   Violation between Hole Size Constraint: (160mil > 100mil) Pad S10-(4515mil,3570mil) on Multi-Layer Actual Hole Size = 160mil
-   Violation between Hole Size Constraint: (160mil > 100mil) Pad S13-(2235mil,2810mil) on Multi-Layer Actual Hole Size = 160mil
-   Violation between Hole Size Constraint: (160mil > 100mil) Pad S14-(2995mil,2810mil) on Multi-Layer Actual Hole Size = 160mil
-   Violation between Hole Size Constraint: (160mil > 100mil) Pad S15-(3755mil,2810mil) on Multi-Layer Actual Hole Size = 160mil
-   Violation between Hole Size Constraint: (160mil > 100mil) Pad S16-(4515mil,2810mil) on Multi-Layer Actual Hole Size = 160mil
-   Violation between Hole Size Constraint: (160mil > 100mil) Pad S19-(2235mil,2050mil) on Multi-Layer Actual Hole Size = 160mil
-   Violation between Hole Size Constraint: (160mil > 100mil) Pad S2-(2995mil,4330mil) on Multi-Layer Actual Hole Size = 160mil
-   Violation between Hole Size Constraint: (160mil > 100mil) Pad S20-(2995mil,2050mil) on Multi-Layer Actual Hole Size = 160mil
-   Violation between Hole Size Constraint: (160mil > 100mil) Pad S21-(3755mil,2050mil) on Multi-Layer Actual Hole Size = 160mil
-   Violation between Hole Size Constraint: (160mil > 100mil) Pad S22-(4515mil,2050mil) on Multi-Layer Actual Hole Size = 160mil
-   Violation between Hole Size Constraint: (160mil > 100mil) Pad S3-(3755mil,4330mil) on Multi-Layer Actual Hole Size = 160mil
-   Violation between Hole Size Constraint: (160mil > 100mil) Pad S4-(4515mil,4330mil) on Multi-Layer Actual Hole Size = 160mil
-   Violation between Hole Size Constraint: (160mil > 100mil) Pad S7-(2235mil,3570mil) on Multi-Layer Actual Hole Size = 160mil
-   Violation between Hole Size Constraint: (160mil > 100mil) Pad S8-(2995mil,3570mil) on Multi-Layer Actual Hole Size = 160mil
-   Violation between Hole Size Constraint: (160mil > 100mil) Pad S9-(3755mil,3570mil) on Multi-Layer Actual Hole Size = 160mil
-Rule Violations :16
-
-Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (Disabled)(All)
 Rule Violations :0
 
-Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (Disabled)(All),(All)
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
 Rule Violations :0
 
-Processing Rule : Silk To Solder Mask (Clearance=10mil) (Disabled)(IsPad),(All)
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.254mm) (Disabled)(All),(All)
 Rule Violations :0
 
-Processing Rule : Silk to Silk (Clearance=10mil) (Disabled)(All),(All)
+Processing Rule : Silk To Solder Mask (Clearance=0.254mm) (Disabled)(IsPad),(All)
 Rule Violations :0
 
-Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Processing Rule : Silk to Silk (Clearance=0.254mm) (Disabled)(All),(All)
 Rule Violations :0
 
-Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=50.8mm) (Prefered=12.7mm) (All)
 Rule Violations :0
 
 
-Violations Detected : 17
+Violations Detected : 2
 Waived Violations : 0
 Time Elapsed        : 00:00:02
