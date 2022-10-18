@@ -2,9 +2,9 @@
 Version=1.0
 
 [PublishSettings]
-OutputFilePath2=D:\Yoshimaru-PC\Desktop\DeepDeck.Ahuyama.hw\MK32_DSD\.PDF
+OutputFilePath2=C:\Users\andre\Mi unidad\Proyectos DSD\HARDWARE\dsd_deepdeck_hw_mk32\MK32_DSD\.PDF
 ReleaseManaged2=0
-OutputBasePath2=D:\Yoshimaru-PC\Desktop\DeepDeck.Ahuyama.hw\MK32_DSD\
+OutputBasePath2=C:\Users\andre\Mi unidad\Proyectos DSD\HARDWARE\dsd_deepdeck_hw_mk32\MK32_DSD\
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
@@ -74,14 +74,14 @@ FramesPerSecondDenom4=1
 AviPixelFormat4=7
 AviCompression4=MP42 MS-MPEG4 V2
 AviQuality4=100
-FFmpegVideoCodecId4=13
+FFmpegVideoCodecId4=12
 FFmpegPixelFormat4=0
 FFmpegQuality4=80
 WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=D:\Yoshimaru-PC\Desktop\DeepDeck.Ahuyama.hw\MK32_DSD\.PDF
+RelativeOutputPath2=C:\Users\andre\Mi unidad\Proyectos DSD\HARDWARE\dsd_deepdeck_hw_mk32\MK32_DSD\.PDF
 OpenOutputs2=1
 RelativeOutputPath3=
 OpenOutputs3=1

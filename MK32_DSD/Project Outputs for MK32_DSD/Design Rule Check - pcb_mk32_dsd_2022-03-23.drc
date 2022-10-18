@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : D:\Cloud DATA\Proyectos DSD\HARDWARE\dsd_deepdeck_hw_mk32\MK32_DSD\pcb_mk32_dsd_2022-03-23.pcbdoc
-Date     : 25/08/2022
-Time     : 9:19:01 a. m.
+PCB File : C:\Users\andre\Mi unidad\Proyectos DSD\HARDWARE\dsd_deepdeck_hw_mk32\MK32_DSD\pcb_mk32_dsd_2022-03-23.pcbdoc
+Date     : 18/10/2022
+Time     : 10:19:58 a. m.
 
 Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
    Violation between Clearance Constraint: (0.175mm < 0.2mm) Between Pad J3-(26.472mm,111.509mm) on Multi-Layer And Pad J3-B1_A12(26.162mm,110.434mm) on Top Layer 
@@ -47,4 +47,4 @@ Rule Violations :0
 
 Violations Detected : 2
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01
