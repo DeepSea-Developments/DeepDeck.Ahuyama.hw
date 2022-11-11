@@ -1,3 +1,0 @@
-Change Component Designator: OldDesignator=LED5 NewDesignator=LED6
-Change Component Designator: OldDesignator=LED6 NewDesignator=LED5
-Change Net Name : Old Net Name=NetLED5_4 New Net Name=NetLED5_2
