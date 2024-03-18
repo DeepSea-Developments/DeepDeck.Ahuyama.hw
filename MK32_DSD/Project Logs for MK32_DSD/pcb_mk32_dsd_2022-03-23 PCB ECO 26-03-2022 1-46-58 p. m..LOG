@@ -1,9 +1,0 @@
-Added Pin To Net: NetName=5V Pin=D5-2
-Added Pin To Net: NetName=5V Pin=IC2-1
-Added Pin To Net: NetName=5V Pin=IC2-2
-Added Pin To Net: NetName=5V Pin=Q1-1
-Added Pin To Net: NetName=5V Pin=R18-1
-Added Pin To Net: NetName=NetD12_2 Pin=D12-2
-Added Pin To Net: NetName=NetD12_2 Pin=J1-1
-Added Net: Name=NetD12_2
-Added Member To Class: ClassName=Main Member=Component D11 MBR130T3G
